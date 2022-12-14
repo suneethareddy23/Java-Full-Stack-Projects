@@ -12,6 +12,7 @@ public class NumberPattern {
 			}
 			System.out.println();
 		}
+		System.out.println("Bye!!");
 	
 	}
 
